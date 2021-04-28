@@ -1,10 +1,10 @@
 # anki-styling
 
-Hi I use Anki to study Dutch. As you know, Anki interface is pretty outdated so to make it more visually pleasing and interesting to learn, this is the CSS code that I use to style the cards, buttons, and the horizontal line. 
+Hi I use Anki to study Dutch. As you know, Anki interface is pretty outdated. So to make it more visually pleasing and interesting to learn with Anki SRS, this is the CSS code that I use to style the cards, buttons, and horizontal line. 
 
 ---
 
-There are two types of cards I mainly use: The vocab card type (basic card with reversed side) and fill in the blank.
+There are two types of cards I mainly use: The vocab card type (basic card with reversed side) and fill in the blank (cloze deletion).
 
 This is how the basic cards look like: 
 
