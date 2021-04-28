@@ -1,0 +1,53 @@
+/* Style basic vocab cards: need to assign <div> elements for typebar, <button> for hint, <hr> for hr*/
+.card {
+    font-family: Verdana;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    background-color: white;
+  }
+  
+  .hint {
+      border-radius: 50px;
+      color: white; 
+      font-size: 14px;
+  }
+  
+  .typebar {
+  width: 400px;
+  margin: 0 auto;
+  }
+  
+  .hr {
+  background: none;
+  border: none;
+  border-top: 1px dotted;
+  border-width: 5px;
+  width: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+  
+  
+  .hr1 {
+  background: none;
+  border: none;
+  border-top: 1px dotted;
+  border-width: 5px;
+  width: 20px;
+  margin-top: 20px;
+  }
+  
+  .en-definition {
+  color: pink;
+  font-size: 15px;
+  margin: 10px;
+  font-style: italic;
+  }
+  
+  .bijv {
+    color: #73c6b6;
+    font-size:14px;
+    text-decoration: underline;
+  }
+
