@@ -27,5 +27,5 @@ How fill in the blank cards look like:
 ![](https://raw.githubusercontent.com/thynguyenxo/anki-styling/main/fillintheblank-backside.png)
 
 # Usage
-Download the html and css files to your desktop then simply copy and paste the codeblock in the css to the styling section of the card. Copy the code placed under the 'Front Template' in the html code to the 'Front Template' and do the same for 'Back Template'. You can of course modify to your liking. 
+Download the html and css files to your desktop then simply copy and paste the css codeblock in the styling section of the card. Using the html file, copy the code placed under the 'Front Template'and paste it in the 'Front Template' section of your Anki cards. Do the same for 'Back Template'. You can of course modify to your liking. 
 
