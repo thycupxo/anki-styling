@@ -9,22 +9,22 @@ There are two types of cards I mainly use: The vocab card type (basic card with 
 This is how the basic cards look like: 
 
 ### Card 1
-![[card1-frontside.png]]
+![](https://raw.githubusercontent.com/thynguyenxo/anki-styling/main/card1-frontside.png)
 
-![[card1-backside.png]]
+![](https://user-images.githubusercontent.com/73088746/116336178-f9044a00-a78c-11eb-9225-56ea564a3347.png)
 
 ### Card 2:
-![[card2-frontside.png]]
+![](https://raw.githubusercontent.com/thynguyenxo/anki-styling/main/card2-fronside.png)
 
-![[card2-backside.png]]
+![](https://raw.githubusercontent.com/thynguyenxo/anki-styling/main/card2-backside.png)
 
 ---
 
 How fill in the blank cards look like:
 
-![[fillintheblank-frontside.png]]
+![](https://raw.githubusercontent.com/thynguyenxo/anki-styling/main/fillintheblank-frontside.png)
 
-![[fillintheblank-backside.png]]
+![](https://raw.githubusercontent.com/thynguyenxo/anki-styling/main/fillintheblank-backside.png)
 
 # Usage
 Download the html and css files to your desktop then simply copy and paste the codeblock in the css to the styling section of the card. Copy the code placed under the 'Front Template' in the html code to the 'Front Template' and do the same for 'Back Template'. You can of course modify to your liking. 
